@@ -1,27 +1,20 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Cyrille</h1>
-<h3 align="center">A passionate frontend developer from Cameroon</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+In addition to programming, I also have a great passion for video games and everything related to technology in general.
 
-- 📫 How to reach me **cyrillerasgado@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Kilian_LE_DU_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ledu-kilian/)](https://www.linkedin.com/in/ledu-kilian/)
 
 
-<!--
-**rasgado100/rasgado100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  🛠️ Je travaille principalement avec..
+##  🛠️ I work with..
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
+@@ -26,6 +24,6 @@ In addition to programming, I also have a great passion for video games and ever
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🎯 Je suis actuellement en train d'apprendre..
+##  🎯 Currently learning..
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=ColorName&color=black)
