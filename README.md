@@ -1,18 +1,61 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Cyrille !
 
-In addition to programming, I also have a great passion for video games and everything related to technology in general.
+💻 Développeur Frontend passionné, j'aime créer des interfaces modernes, fluides et performantes.
 
+---
 
+## 🚀 À propos de moi
 
+* 🔭 Je travaille principalement avec **React**
+* ⚙️ Je développe aussi des applications backend avec **Laravel**
+* 🎯 Toujours en train d’apprendre et de m’améliorer
+* 💡 Passionné par le design UI/UX et les expériences utilisateur
+* 🌍 Basé au Cameroun
 
+---
 
-##  🛠️ I work with..
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
+## 🛠️ Technologies & Outils
 
+### Frontend
 
+* ⚛️ React
+* 🧠 JavaScript (ES6+)
+* 🎨 HTML5 / CSS3
+* 💅 Tailwind CSS / Bootstrap
 
-##  🎯 Currently learning..
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=python&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=flutter&logoColor=ColorName&color=black)
+### Backend
+
+* 🐘 PHP
+* 🔥 Laravel
+
+### Outils
+
+* 🧰 Git & GitHub
+* 🧪 Postman
+* 🗄️ MySQL
+
+---
+
+## 📈 Stats GitHub
+
+![Cyrille GitHub stats](https://github-readme-stats.vercel.app/api?username=rasgado100\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasgado100\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Me contacter
+
+* 📧 Email : [tonemail@example.com](mailto:cyrillerasgado@gmail.com)
+
+* 🌐 Portfolio : cyrillerasgado.com
+
+---
+
+## ⚡ Fun fact
+
+> J’adore transformer des idées en interfaces interactives et donner vie aux projets 🚀
+
+---
+
+⭐️ N'hésite pas à explorer mes projets et à me contacter !
