@@ -46,7 +46,7 @@
 
 ## 📫 Me contacter
 
-* 📧 Email : [tonemail@example.com](mailto:cyrillerasgado@gmail.com)
+* 📧 Email : [cyrillerasgado@gmail.com](mailto:cyrillerasgado@gmail.com)
 
 * 🌐 Portfolio : cyrillerasgado.com
 
