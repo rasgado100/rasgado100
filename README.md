@@ -1,16 +1,16 @@
-# 👋 Salut, moi c'est Cyrille !
+# 👋 Hi, I'm Cyrille !
 
-💻 Développeur Frontend passionné, j'aime créer des interfaces modernes, fluides et performantes.
+As a passionate frontend developer, I enjoy creating modern, fluid, and high-performance interfaces.
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About me
 
 * 🔭 Je travaille principalement avec **React**
 * ⚙️ Je développe aussi des applications backend avec **Laravel**
 * 🎯 Toujours en train d’apprendre et de m’améliorer
 * 💡 Passionné par le design UI/UX et les expériences utilisateur
-* 🌍 Basé au Cameroun
+* 🌍 Je suis basé au Cameroun
 
 ---
 
